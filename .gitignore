@@ -6,7 +6,7 @@ data/processed/posteriors/
 # Original dataset archives (zip downloads)
 *.zip
 
-# Local project memory / AI context (not shipped to GitHub)
+# Local project memory, workflow state, and AI context (not shipped to GitHub)
 context/
 
 # Claude Code / local worktrees (not part of the pipeline repo)
