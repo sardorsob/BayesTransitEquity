@@ -6,8 +6,9 @@ data/processed/posteriors/
 # Original dataset archives (zip downloads)
 *.zip
 
-# Local project memory, workflow state, and AI context (not shipped to GitHub)
-context/
+# External workflow references cloned for local consultation
+sardors-agentic-workflows/
+context/workflow-reference/
 
 # Claude Code / local worktrees (not part of the pipeline repo)
 .claude/
